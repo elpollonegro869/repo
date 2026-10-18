@@ -1,0 +1,19 @@
+# Visual Studio C++
+.vs/
+x64/
+x86/
+Debug/
+Release/
+*.vcxproj.user
+*.vcxproj.filters
+*.obj
+*.exe
+*.ilk
+*.pdb
+*.log
+*.tlog
+*.lastbuildstate
+*.idb
+*.recipe
+bin/
+obj/

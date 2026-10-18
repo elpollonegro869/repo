@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="fibinacci_c/fibinacci_c.vcxproj" Id="dcd28c19-904f-438c-9611-04960a16399f" />
+</Solution>
