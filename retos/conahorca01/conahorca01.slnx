@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="conahorca01.vcxproj" Id="87591ad1-4261-449e-8b89-10e77d12ae0c" />
+</Solution>
